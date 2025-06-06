@@ -1,0 +1,1 @@
+export const monsterMessages: string[] = ["Vamos comer um cookie?", "Quase lá...", "Aqui está!"]
